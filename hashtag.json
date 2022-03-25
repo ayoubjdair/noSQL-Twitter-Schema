@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eecf"
+  },
+  "tag_id": 1,
+  "tag": "#BLM"
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eed0"
+  },
+  "tag_id": 2,
+  "tag": "#unilife"
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eed1"
+  },
+  "tag_id": 3,
+  "tag": "#programming"
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eed2"
+  },
+  "tag_id": 4,
+  "tag": "#ulstudentlife"
+}]

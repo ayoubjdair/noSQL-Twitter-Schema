@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eec8"
+  },
+  "tweet_id": 1,
+  "user_id": 2,
+  "username": "jackm",
+  "description": "I love mongoDB!",
+  "timestamp": {
+    "$timestamp": {
+      "t": 1635385464,
+      "i": 5
+    }
+  }
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eec9"
+  },
+  "tweet_id": 2,
+  "user_id": 3,
+  "username": "notmiajane",
+  "description": "non-relational DBs are hard to grasp...",
+  "timestamp": {
+    "$timestamp": {
+      "t": 1635385464,
+      "i": 6
+    }
+  }
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eeca"
+  },
+  "tweet_id": 3,
+  "user_id": 1,
+  "username": "ayoubjdair",
+  "description": "this is my first tweet",
+  "timestamp": {
+    "$timestamp": {
+      "t": 1635385464,
+      "i": 7
+    }
+  }
+}]

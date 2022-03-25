@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eecb"
+  },
+  "tweet_id": 1,
+  "user_id": 1
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eecc"
+  },
+  "tweet_id": 2,
+  "user_id": 2
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eecd"
+  },
+  "tweet_id": 3,
+  "user_id": 2
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eece"
+  },
+  "tweet_id": 3,
+  "user_id": 3
+}]

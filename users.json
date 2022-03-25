@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "617a0077eb0382a8a1a1eec5"
+  },
+  "user_id": 1,
+  "username": "ayoubjdair",
+  "name": "ayoub",
+  "password": "pass123",
+  "email_address": "ayoubjdair00@gmail.com",
+  "created_at": {
+    "$date": "2014-03-01T08:00:00Z"
+  },
+  "followers": [
+    {
+      "user_id": 2
+    },
+    {
+      "user_id": 3
+    }
+  ],
+  "following": [
+    {
+      "user_id": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617a0077eb0382a8a1a1eec6"
+  },
+  "user_id": 2,
+  "username": "jackm",
+  "name": "jack",
+  "password": "pass123",
+  "email_address": "jack123@gmail.com",
+  "created_at": {
+    "$date": "2014-03-01T08:00:00Z"
+  },
+  "followers": [
+    {
+      "user_id": 1
+    }
+  ],
+  "following": [
+    {
+      "user_id": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617a0077eb0382a8a1a1eec7"
+  },
+  "user_id": 3,
+  "username": "notmiajane",
+  "name": "mia",
+  "password": "pass123",
+  "email_address": "devvitt11@gmail.com",
+  "created_at": {
+    "$date": "2014-03-01T08:00:00Z"
+  },
+  "following": [
+    {
+      "user_id": 1
+    }
+  ]
+}]

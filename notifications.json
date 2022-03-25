@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eedb"
+  },
+  "notification_id": 1,
+  "user_id": 1,
+  "description": "User 2 liked your tweet"
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eedc"
+  },
+  "notification_id": 2,
+  "user_id": 1,
+  "description": "User 3 liked your tweet"
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eedd"
+  },
+  "notification_id": 3,
+  "user_id": 2,
+  "description": "User 1 retweeted your tweet"
+},{
+  "_id": {
+    "$oid": "617a0078eb0382a8a1a1eede"
+  },
+  "notification_id": 4,
+  "user_id": 3,
+  "description": "User 2 liked your tweet"
+}]
